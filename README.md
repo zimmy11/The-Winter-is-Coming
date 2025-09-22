@@ -5,6 +5,10 @@
 
 ---
 
+<img src="asset.jpg" alt="Project banner" width="640">
+
+---
+
 ## 🌌 Overview  
 
 This project investigates how **targeted changes to intermediate activations** can bias diffusion sampling toward a desired concept — in this case **“WINTER”** — without retraining.  
