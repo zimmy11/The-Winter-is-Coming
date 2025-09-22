@@ -5,7 +5,7 @@
 
 ---
 
-<img src="asset.jpg" alt="Project banner" width="640">
+<img src="asset.jpeg" alt="Project banner" width="640">
 
 ---
 
