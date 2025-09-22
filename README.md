@@ -48,6 +48,7 @@ By applying a **per-layer epsilon schedule** across the text encoder, we nudge t
 ```bash
 git clone https://github.com/zimmy11/The-Winter-is-Coming.git
 cd The-Winter-is-Coming
+```
 
 2. **View Results**
 
